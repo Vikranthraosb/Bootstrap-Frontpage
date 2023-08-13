@@ -1,0 +1,12 @@
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: var(--bs-navbar-nav-link-padding-x);
+        padding-left: var(--bs-navbar-nav-link-padding-x);
+        color: white !important;
+        font-weight: 500;
+    }
+   .carousel-item{
+    max-height: 400px;
+    background-size: cover;
+    
+   }
